@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
@@ -62,4 +61,3 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
->>>>>>> 8411d2711a93b302dbbf60ecee5c9aef96bfe91e
